@@ -1,0 +1,112 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "name": "Appendectomy",
+        "surgeon": "Gazi Yasargil",
+        "description": "An appendectomy is the surgical removal of the appendix, a small tube that branches off the large intestine, to treat acute appendicitis. Appendicitis is the acute inflammation of this tube due to infection.",
+        "no_of_patients": "15",
+        "duration": 32,
+        "rating": 5,
+        "img": "https://i.ibb.co/LvFRCzZ/appendicitis.jpg",
+        "price": 145
+    },
+    {
+        "key": "B01LZ2WZGH",
+        "name": "Carotid endarterectomy",
+        "surgeon": "Dr. William Abdu",
+        "description": "Carotid endarterectomy is a surgical procedure to remove blockage from carotid arteries, the arteries located in the neck that supply blood to the brain. Left untreated, a blocked carotid artery can lead to a stroke.",
+        "no_of_patients": "34",
+        "duration": 25,
+        "rating": 5,
+        "img": "https://i.ibb.co/995dsPF/Carotid-endarterectomy.jpg",
+        "price": 112
+    },
+    {
+        "key": "B01K1IO3QW",
+        "name": "Cataract surgery",
+        "surgeon": "Dr. Myles Abbott",
+        "description": "Cataracts cloud the normally clear lens of the eyes. Cataract surgery involves the removal of the cloudy lens, which is replaced with a clear artificial lens implant.",
+        "no_of_patients": "42",
+        "duration": 45,
+        "rating": 5,
+        "img": "https://i.ibb.co/2jNpQdV/cataract.jpg",
+        "price": 221
+    },
+    {
+        "key": "B01LD4MGY4",
+        "name": "Cholecystectomy",
+        "surgeon": "Dr. Fouad Abbas",
+        "description": "A cholecystectomy is surgery to remove the gallbladder (a pear-shaped sac near the right lobe of the liver that holds bile). A gallbladder may need to be removed if the organ is prone to troublesome gallstones, if it is infected, or becomes cancerous.",
+        "no_of_patients": "25",
+        "duration": 35,
+        "rating": 5,
+        "img": "https://i.ibb.co/PNBLdX3/Cholecystectomy.jpg",
+        "price": 115
+    },
+    {
+        "key": "B01M18UZF5",
+        "name": "Coronary artery bypass",
+        "surgeon": "Dr. Khalid Abbed",
+        "description": "Most commonly referred to as simply bypass surgery this surgery is often done in people who have angina (chest pain) and coronary artery disease (where plaque has built up in the arteries). During the surgery, a bypass is created by grafting a piece of a vein above and below the blocked area of a coronary artery, enabling blood to flow around the obstruction.",
+        "no_of_patients": "14",
+        "duration": 46,
+        "rating": 4,
+        "img": "https://i.ibb.co/TbfW8CJ/Coronary-artery-bypass.png",
+        "price": 245
+    },
+    {
+        "key": "B01DBGVB7K",
+        "name": "Debridement of wound",
+        "surgeon": "Dr. Naresh Trehan",
+        "description": "Debridement involves the surgical removal of foreign material and/or dead, damaged, or infected tissue from a wound or burn. By removing the diseased or dead tissue, healthy tissue is exposed to allow for more effective healing.",
+        "no_of_patients": "21",
+        "duration": 75,
+        "rating": 3,
+        "img": "https://i.ibb.co/rmmZ533/Debridement.jpg",
+        "price": 312
+    },
+    {
+        "key": "B015WXL0C6",
+        "name": "Partial colectomy",
+        "surgeon": "Benjamin Carson",
+        "description": "A partial colectomy is the removal of part of the large intestine (colon) which may be done to treat cancer of the colon  or inflammatory conditions such as ulcerative colitis or diverticulitis.",
+        "no_of_patients": "19",
+        "duration": 34,
+        "rating": 5,
+        "img": "https://i.ibb.co/jhHKfS7/colectomy.jpg",
+        "price": 186
+    },
+    {
+        "key": "B06Y4GZS9C",
+        "name": "skin graft",
+        "surgeon": "Dr. Corrie Anderson",
+        "description": "A skin graft involves detaching healthy skin from one part of the body to repair areas of lost or damaged skin in another part of the body. Skin grafts are often done as a result of burns, injury, or surgical removal of diseased skin. They are most often done when the area is too large to be repaired by stitching or natural healing.",
+        "no_of_patients": "27",
+        "duration": 64,
+        "rating": 2,
+        "img": "https://i.ibb.co/3Sv7nhq/skin-graft.jpg",
+        "price": 423
+    },
+    {
+        "key": "B06XJJG4PD",
+        "name": "back pain surgery",
+        "surgeon": "Dr. Mark Aaron",
+        "description": "Low back pain can have various causes, including abnormal development of the backbone, stress on the back, injury, or a physical disorder that affects the bones of the spine. Usually, surgery is not considered until other options have been exhausted, including rest, medication, and mild exercise. The type of surgery done on the back depends on the diagnosis.",
+        "no_of_patients": "36",
+        "duration": 33,
+        "rating": 4,
+        "img": "https://i.ibb.co/BV6Gm5k/back-pain.png",
+        "price": 105
+    },
+    {
+        "key": "B01NBE6Y5D",
+        "name": "Tonsillectomy",
+        "surgeon": "Dr. Sudhansu",
+        "description": "A tonsillectomy is the removal of the tonsils. The surgery is done to treat difficulties in sleeping and to cure frequent infections. The procedure and recovery are discussed. When to Call the Doctor.",
+        "no_of_patients": "17",
+        "duration": 20,
+        "rating": 3,
+        "img": "https://i.ibb.co/BfmW0vw/tonslis.jpg",
+        "price": 245
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "key": "dB002RL8IYK",
+        "name": "Successful operation of Appendectomy",
+        "surgeon": "Dr. William Abdu",
+        "severity": "High",
+        "surgery_duration": 25,
+        "required_blood": 5,
+        "avg_heart_rate": 90,
+        "avg_blood_pressure": "90/150",
+        "avg_oxygen_level": "95%",
+        "img": "https://i.ibb.co/LvFRCzZ/appendicitis.jpg"
+    },
+    {
+        "key": "fB01LZ2WZGH",
+        "name": "Successful operation of Carotid endarterectomy",
+        "surgeon": "Dr. Myles Abbott",
+        "severity": "Critical",
+        "surgery_duration": 35,
+        "required_blood": 7,
+        "avg_heart_rate": 97,
+        "avg_blood_pressure": "84/140",
+        "avg_oxygen_level": "97%",
+        "img": "https://i.ibb.co/995dsPF/Carotid-endarterectomy.jpg"
+    },
+    {
+        "key": "dkB01K1IO3QW",
+        "name": "Successful Cataract surgery",
+        "surgeon": "Dr. Fouad Abbas",
+        "severity": "Normal",
+        "surgery_duration": 54,
+        "required_blood": 9,
+        "avg_heart_rate": 81,
+        "avg_blood_pressure": "80/130",
+        "avg_oxygen_level": "93%",
+        "img": "https://i.ibb.co/2jNpQdV/cataract.jpg"
+    },
+    {
+        "key": "Bk01LD4MGY4",
+        "name": "Successful operation of Cholecystectomy",
+        "surgeon": "Dr. Khalid Abbed",
+        "severity": "normal",
+        "surgery_duration": 38,
+        "required_blood": 9,
+        "avg_heart_rate": 120,
+        "avg_blood_pressure": "100/160",
+        "avg_oxygen_level": "88%",
+        "img": "https://i.ibb.co/PNBLdX3/Cholecystectomy.jpg"
+    },
+    {
+        "key": "Bh01M18UZF5",
+        "name": "Successful operation of Coronary artery bypass",
+        "surgeon": "Dr. Naresh Trehan",
+        "severity": "High",
+        "surgery_duration": 68,
+        "required_blood": 12,
+        "avg_heart_rate": 123,
+        "avg_blood_pressure": "110/170",
+        "avg_oxygen_level": "87%",
+        "img": "https://i.ibb.co/TbfW8CJ/Coronary-artery-bypass.png"
+    },
+    {
+        "key": "Bj01DBGVB7K",
+        "name": "Successful Debridement of wound",
+        "surgeon": "Benjamin Carson",
+        "severity": "High",
+        "surgery_duration": 45,
+        "required_blood": 3,
+        "avg_heart_rate": 94,
+        "avg_blood_pressure": "92/153",
+        "avg_oxygen_level": "99%",
+        "img": "https://i.ibb.co/rmmZ533/Debridement.jpg"
+    },
+    {
+        "key": "Bj015WXL0C6",
+        "name": "Successful operation of Partial colectomy",
+        "surgeon": "Dr. Corrie Anderson",
+        "severity": "Critical",
+        "surgery_duration": 23,
+        "required_blood": 9,
+        "avg_heart_rate": 94,
+        "avg_blood_pressure": "99/153",
+        "avg_oxygen_level": "92%",
+        "img": "https://i.ibb.co/jhHKfS7/colectomy.jpg"
+    },
+    {
+        "key": "Bu06Y4GZS9C",
+        "name": "Successful skin grafting",
+        "surgeon": "Dr. Mark Aaron",
+        "severity": "Normal",
+        "surgery_duration": 23,
+        "required_blood": 7,
+        "avg_heart_rate": 96,
+        "avg_blood_pressure": "98/156",
+        "avg_oxygen_level": "94%",
+        "img": "https://i.ibb.co/3Sv7nhq/skin-graft.jpg"
+    },
+    {
+        "key": "Bi06XJJG4PD",
+        "name": "Successful surgery of back pain",
+        "surgeon": "Dr. Sudhansu",
+        "severity": "High",
+        "surgery_duration": 26,
+        "required_blood": 6,
+        "avg_heart_rate": 94,
+        "avg_blood_pressure": "96/149",
+        "avg_oxygen_level": "78%",
+        "img": "https://i.ibb.co/BV6Gm5k/back-pain.png"
+    },
+    {
+        "key": "Bh01NBE6Y5D",
+        "name": "Successful operation of Tonsillectomy",
+        "surgeon": "Gazi Yasargil",
+        "severity": "Critical",
+        "surgery_duration": 48,
+        "required_blood": 9,
+        "avg_heart_rate": 70,
+        "avg_blood_pressure": "112/160",
+        "avg_oxygen_level": "75%",
+        "img": "https://i.ibb.co/BfmW0vw/tonslis.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+.carousel-item img{
+    height: 400px;
+}
+.headings h1{
+    color: rgb(18, 54, 42);
+}
+.carousel-item p{
+    color: aliceblue;
+    background-color: rgb(27, 54, 85);
+}
+.carousel-caption p{
+    line-height: 20px;
+}
