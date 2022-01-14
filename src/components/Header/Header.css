@@ -7,14 +7,14 @@
 }
 .header nav {
     background-color: rgba(80, 103, 117, 0.815);
-    line-height: 40px;
+    line-height: 41px;
 }
 .header nav a{
     text-decoration: none;
     color: white;
     margin-right: 20px;
     padding: 5px;
-    font-size: 20px;
+    font-size: 21px;
 }
 /* .header nav a:hover{
     background-color: lightgray;
